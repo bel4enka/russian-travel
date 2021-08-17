@@ -1,0 +1,24 @@
+.section-little {
+    max-width: 1280px;
+    padding: 0 442px 0 148px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 1024px) {
+    .section-little {
+        padding: 0 286px 0 48px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .section-little {
+        padding: 0 24px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .section-little {
+        padding: 0 16px;
+    }
+}

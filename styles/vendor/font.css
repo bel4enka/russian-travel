@@ -16,6 +16,6 @@
   src: url("../../styles/fonts/Inter-Regular.woff") format("woff"),
   url("../../styles/fonts/Inter-Regular.woff2") format("woff2");
   font-family: 'Inter';
-  font-weight: normal;
+  font-weight: 400;
 }
 
