@@ -9,4 +9,4 @@
 некоторых блоков.
 
 ### Сайт
-Ознакомиться с сайтом, можно по ссылке https://bel4enka.github.io/russian-travel/
+Ознакомиться с сайтом, можно по ссылке [https://bel4enka.github.io/russian-travel/]
