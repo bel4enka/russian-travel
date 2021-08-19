@@ -1,5 +1,12 @@
 .photo__img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 320px) {
+  .photo__img {
+    max-height: 216px;
+    display: block;
+  }
 }
