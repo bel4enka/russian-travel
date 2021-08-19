@@ -4,7 +4,6 @@
   font-size: 18px;
   line-height: 22px;
   text-align: center;
-  font-weight: 400;
 }
 
 @media screen and (max-width: 560px) {
@@ -12,5 +11,6 @@
     font-size: 14px;
     line-height: 16px;
     max-width: 288px;
+    margin-top: 16px;
   }
 }

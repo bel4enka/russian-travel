@@ -14,7 +14,7 @@
   }
 }
 
-@media screen and (max-width: 803px) {
+@media screen and (max-width: 320px) {
   .place__paragraph {
     margin-bottom: 25px;
   }
